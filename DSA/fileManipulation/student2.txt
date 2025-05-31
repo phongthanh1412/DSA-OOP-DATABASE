@@ -1,0 +1,7 @@
+studentID|studentName|studentHeight|studentWeight|bloodType
+HS001|Nguyen Van A|160|72|B
+HS002|Le Gia B|176|72|O
+HS003|Nguyen Trong P|160|72|A
+HS004|Tran Tra H|170|52|AB
+HS005|Trieu Van D|160|85|O
+HS006|Truong Hoa X|176|72|A

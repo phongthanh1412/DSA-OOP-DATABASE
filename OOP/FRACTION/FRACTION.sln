@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FRACTION", "FRACTION\FRACTION.vcxproj", "{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Debug|x64.ActiveCfg = Debug|x64
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Debug|x64.Build.0 = Debug|x64
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Debug|x86.Build.0 = Debug|Win32
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Release|x64.ActiveCfg = Release|x64
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Release|x64.Build.0 = Release|x64
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Release|x86.ActiveCfg = Release|Win32
+		{D5957948-2BD1-4FC3-AD07-3B2E39BA75A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F73D6B5-8052-4284-B05B-12FDE004E229}
+	EndGlobalSection
+EndGlobal

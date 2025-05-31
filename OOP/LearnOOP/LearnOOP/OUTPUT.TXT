@@ -1,0 +1,12 @@
+Nhan vat co suc manh lon nhat: 
+KySi: 240
+
+Team 1:
+KySi: 120
+DauSi: 150
+
+Team 2:
+AnhHung: 100
+PhapSuBang: 90
+ThayPhap: 80
+Do chenh lech: 0

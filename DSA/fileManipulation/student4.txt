@@ -1,0 +1,11 @@
+studentID; studentName; studentAge; math_score; physics_score; chemistry_score; english_score; programming_score;gpa;bloodType
+BS001;John Smith;19;85;92;78;80;95;85;AB
+BS002;Alice Johnson;20;90;88;95;82;89;76.8;O
+BS003;Bob Williams;18;76;80;75;70;85;67;B
+BS004;Emily Brown;21;92;95;90;88;91;80;B
+BS005;Michael Davis;19;78;82;70;75;80;83;A
+BS006;Sarah Miller;20;88;85;92;80;87;90;O
+BS007;David Garcia;18;80;75;85;70;90;89;AB
+BS008;Rodriguez;21;95;90;88;92;95;98;O
+BS009;Kevin Wilson;19;82;88;75;85;90;88.5;A
+BS0010;George Martinez;20;85;90;80;82;88;77.5;B

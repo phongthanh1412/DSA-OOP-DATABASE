@@ -1,0 +1,4 @@
+MST found with Prim's algorithm:
+1 - 0
+0 - 2
+2 - 3

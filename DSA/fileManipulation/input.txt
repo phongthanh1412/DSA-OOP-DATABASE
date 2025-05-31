@@ -1,0 +1,6 @@
+Thong tin cac thi sinh
+2311; Nguyen Thanh    Phong; 34;10;40
+2342;    Nam Nguyen  ; 56;23;87
+3785;  Minh  Trung ;67; 43;77
+4456;   Thai Bao;  65;   23; 54
+5755; Tan   Hung; 34; 88; 100
